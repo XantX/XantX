@@ -1,4 +1,4 @@
-### Hi, I'm Sebastian
+### Hi, I'm Sebastian :fire:
 
 ```js
 const XantX = {
@@ -17,7 +17,7 @@ const XantX = {
 };
 ```
 [![XantX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XantX&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-## You can find me:
+## You can find me :eyes:
 
 <a href="https://www.linkedin.com/in/sebastian-diaz-torres-43058a161" target="_blank">
   <img align="left" width="50px" src="https://www.flaticon.es/svg/vstatic/svg/174/174857.svg?token=exp=1612995338~hmac=4aa126065b6a343adc5346ef46e19660" />
