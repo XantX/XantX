@@ -5,13 +5,15 @@ const XantX = {
    code: [Javascript, HTML, CSS, Python, C++, Java],
    technologies: {
       frontEnd: {
-         css: "Bootstrap"
+         js: "React",
+         css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
          js: ["Node", "Express"],
          python: ["flask"]
       },
-      databases: ["mySQL", "SQLServer"]
+      databases: ["mySQL", "SQLServer"],
+      career: "Software engineer"
    },
    currentOccupation: "last year student, open for job opportunities"
 };
