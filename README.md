@@ -10,6 +10,8 @@ const XantX = {
       },
       backEnd: {
          js: ["Node", "Express"],
+         java: "Spring Boot",
+         C#: "ASP.NET core",
          python: ["flask"]
       },
       databases: ["mySQL", "SQLServer"],
