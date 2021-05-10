@@ -2,7 +2,7 @@
 
 ```js
 const XantX = {
-   code: [Javascript, HTML, CSS, Python, C++, Java],
+   code: [Javascript, HTML, CSS, Python, C++, Java, Csharp],
    technologies: {
       frontEnd: {
          js: "React",
@@ -10,8 +10,8 @@ const XantX = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         java: "Spring Boot",
-         C#: "ASP.NET core",
+         java: ["Spring Boot"],
+         Csharp: ["ASP.NET core"],
          python: ["flask"]
       },
       databases: ["mySQL", "SQLServer"],
