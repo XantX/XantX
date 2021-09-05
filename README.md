@@ -27,5 +27,5 @@ const Sebastian = {
 ## You can find me :eyes:
 
 <a href="https://www.linkedin.com/in/sebastian-diaz-torres-43058a161" target="_blank">
-  <img align="left" width="50px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620518280~hmac=0cfc4484ed5fbc9d3a35cea39e5f6e66" />
+   <h1>Linkedin Profile</h1>
 </a>
