@@ -26,6 +26,4 @@ const Sebastian = {
 
 ## You can find me :eyes:
 
-<a href="https://www.linkedin.com/in/sebastian-diaz-torres-43058a161" target="_blank">
-   <h1>Linkedin Profile</h1>
-</a>
+[Linkedin Profile](https://www.linkedin.com/in/sebastian-diaz-torres-43058a161) 👨🏽‍💻
