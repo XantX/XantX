@@ -1,11 +1,11 @@
 ### Hi, I'm Sebastian :fire:
 
 ```js
-const XantX = {
-   code: [Javascript, HTML, CSS, Python, C++, Java, Csharp],
+const Sebastian = {
+   code: [Javascript, HTML, CSS, Python, C++, Java, Csharp, php],
    technologies: {
       frontEnd: {
-         js: "React",
+         js: ["React","Vue"],
          css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
