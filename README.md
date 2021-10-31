@@ -5,7 +5,7 @@ const Sebastian = {
    code: [Javascript, HTML, CSS, Python, C++, Java, Csharp, php],
    technologies: {
       frontEnd: {
-         js: ["React","Vue"],
+         js: ["React","Vue","Angular"],
          css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
@@ -17,7 +17,7 @@ const Sebastian = {
       databases: ["mySQL", "SQLServer"],
       career: "Software engineer"
    },
-   currentOccupation: "last year student, open for job opportunities"
+   currentOccupation: "System Engineer Intern"
 };
 ```
 [![XantX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XantX&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
