@@ -5,7 +5,7 @@ const Sebastian = {
    code: [Javascript, HTML, CSS, Python, C++, Java, Csharp, php],
    technologies: {
       frontEnd: {
-         js: ["React","Vue","Angular"],
+         js: ["Vue","Angular"],
          css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
