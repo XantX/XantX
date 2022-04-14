@@ -17,7 +17,7 @@ const Sebastian = {
       databases: ["mySQL", "SQLServer"],
       career: "Software engineer"
    },
-   currentOccupation: "System Engineer Intern"
+   currentOccupation: ".Net developer analyst"
 };
 ```
 [![XantX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XantX&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
