@@ -5,7 +5,7 @@ const Sebastian = {
    code: [Javascript, HTML, CSS, Python, C++, Java, Csharp, php],
    technologies: {
       frontEnd: {
-         js: ["Vue","Angular"],
+         js: ["Vue","React"],
          css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
@@ -14,10 +14,10 @@ const Sebastian = {
          Csharp: ["ASP.NET core"],
          python: ["flask"]
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: ["mySQL", "Sqlite"],
       career: "Software engineer"
    },
-   currentOccupation: ".Net developer analyst"
+   currentOccupation: "Student"
 };
 ```
 [![XantX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XantX&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
