@@ -26,7 +26,7 @@ const Sebastian = {
 
 ## You can find me :eyes:
 
-[My web page](https://xantx.github.io/work-portfolio/) ⌨️
+[My web page](https://xantx.github.io/work-portfolio-old/) ⌨️
 
 <a href="https://www.linkedin.com/in/sebastian-diaz-torres-43058a161">
 
