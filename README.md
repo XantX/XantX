@@ -26,8 +26,6 @@ const Sebastian = {
 
 ## You can find me :eyes:
 
-[My web page](https://xantx.github.io/work-portfolio-old/) ⌨️
-
 <a href="https://www.linkedin.com/in/sebastian-diaz-torres-43058a161">
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drawing" width="30"/>
