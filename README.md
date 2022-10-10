@@ -31,5 +31,5 @@ const Sebastian = {
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drawing" width="30"/>
 </a>
 
-### Links QR
+### Linkedin qr
 <img src="./linkedin.png" alt="linkedin" style="width:200px;"/>
