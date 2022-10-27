@@ -2,16 +2,15 @@
 
 ```js
 const Sebastian = {
-   code: [Javascript, HTML, CSS, Python, C++, Java, Csharp, php],
+   code: [Javascript, HTML, CSS, Python, C++, Java, Go],
    technologies: {
       frontEnd: {
-         js: ["Vue","React"],
+         js: ["React"],
          css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Express"],
          java: ["Spring Boot"],
-         Csharp: ["ASP.NET core"],
          python: ["flask"]
       },
       databases: ["mySQL", "Sqlite"],
