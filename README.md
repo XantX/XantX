@@ -9,14 +9,14 @@ const Sebastian = {
          css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
-         js: ["Express"],
+         js: ["Express", "NestJs"],
          java: ["Spring Boot"],
          python: ["flask"]
       },
       databases: ["mySQL", "Sqlite"],
       career: "Software engineer"
    },
-   currentOccupation: "Student"
+   currentOccupation: "Backend developer and student"
 };
 ```
 [![XantX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XantX&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
