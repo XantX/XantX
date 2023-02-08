@@ -2,14 +2,14 @@
 
 ```js
 const Sebastian = {
-   code: [ typescript, Html, Css, Python, Java, Go],
+   code: [ Typescript, Html, Css, Python, Java, Go],
    technologies: {
       frontEnd: {
          js: ["React"],
          css: ["Bootstrap", "Materialize"]
       },
       backEnd: {
-         js: ["NestJs"],
+         ts: ["NestJs"],
          java: ["Spring Boot"],
          python: ["flask"]
       },
@@ -26,9 +26,12 @@ const Sebastian = {
 ## You can find me :eyes:
 
 <a href="https://www.linkedin.com/in/sebastian-diaz-torres/">
-
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drawing" width="30"/>
 </a>
+
+
+## My page :eyes:
+[sebastiandiazweb.com](https://sebastiandiazweb.com/)
 
 ### Linkedin qr
 <img src="./linkedin.png" alt="linkedin" style="width:200px;"/>
