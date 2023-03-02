@@ -19,17 +19,19 @@ const Sebastian = {
    currentOccupation: "Backend developer and student"
 };
 ```
-<div align="center">
+<div>
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=XantX&theme=gruvbox&show_icons=true"/>
 <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=XantX&layout=compact&theme=gruvbox"/>
 </div>
 
-## You can find me :eyes:
+## You can find me at :eyes:
 
-<a href="https://www.linkedin.com/in/sebastian-diaz-torres/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drawing" width="30"/>
-</a>
-
-## My page :eyes:
-[sebastiandiazweb.com](https://sebastiandiazweb.com/)
+<div> 
+  <a href="https://www.instagram.com/zxantx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/xantxx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sebastian.diaz.trabajo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sebastian-diaz-torres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://sebastiandiazweb.com/" target="_blank"><img src="https://img.shields.io/badge/-web-%23333?style=for-the-badge&logo=google-chrome&logoColor=yellow" target="_blank"></a> 
+  
+</div>
 
