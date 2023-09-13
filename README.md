@@ -11,7 +11,7 @@ const Sebastian = {
       backEnd: {
          ts: ["NestJs"],
          java: ["Spring Boot"],
-         python: ["flask"]
+         python: ["FastApi"]
       },
       databases: ["mySQL", "Sqlite", "MongoDb"],
       career: "Software engineer"
