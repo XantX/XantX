@@ -25,6 +25,36 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-917.6%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 238.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 394 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 31 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+
+ Last Updated on 12/12/2023 03:17:53 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
