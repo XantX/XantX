@@ -24,6 +24,9 @@ const Sebastian = {
 <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=XantX&layout=compact&theme=gruvbox"/>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## You can find me at :eyes:
 
 <div> 
