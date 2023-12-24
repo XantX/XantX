@@ -68,13 +68,14 @@ Sunday                   186 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     28 mins             ██████████████░░░░░░░░░░░   56.63 % 
+Lua                      21 mins             ███████████░░░░░░░░░░░░░░   43.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +91,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2023 01:12:07 UTC
+ Last Updated on 24/12/2023 01:19:25 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
