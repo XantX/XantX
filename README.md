@@ -2,7 +2,7 @@
 
 ```js
 const Sebastian = {
-   code: [ Typescript, Html, Css, Python, Java, Go],
+   code: [ Typescript, Html, Css, Python, Java, Rust],
    technologies: {
       frontEnd: {
          js: ["React"],
