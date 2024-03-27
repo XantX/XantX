@@ -27,7 +27,7 @@ const Sebastian = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,18 +68,13 @@ Sunday                   186 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               2 hrs 51 mins       ████████████████████░░░░░   79.57 % 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-AutoHotkey               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   3 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 7 mins        ██████████████████████░░░   86.65 % 
-Windows                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +90,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2024 01:11:35 UTC
+ Last Updated on 27/03/2024 01:11:53 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
