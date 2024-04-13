@@ -25,6 +25,8 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -86,7 +88,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2024 01:13:25 UTC
+ Last Updated on 13/04/2024 01:00:48 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
