@@ -25,7 +25,7 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -68,14 +68,14 @@ Sunday                   186 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-AutoHotkey               3 mins              ████████████████░░░░░░░░░   62.67 % 
-TypeScript               2 mins              █████████░░░░░░░░░░░░░░░░   37.33 % 
+AutoHotkey               3 mins              ███████████████████░░░░░░   77.70 % 
+TypeScript               1 min               ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+Neovim                   4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2024 01:20:11 UTC
+ Last Updated on 14/06/2024 01:20:17 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
