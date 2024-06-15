@@ -25,15 +25,13 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 233.3 kB Used in GitHub's Storage 
- > 
-> 🏆 43 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,14 +66,17 @@ Sunday                   186 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-AutoHotkey               3 mins              ███████████████████░░░░░░   77.70 % 
-TypeScript               1 min               ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Markdown                 42 mins             ██████████████████████░░░   88.53 % 
+AutoHotkey               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Neovim                   4 mins              █████████████████████████   100.00 % 
+Neovim                   48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +92,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 01:20:17 UTC
+ Last Updated on 15/06/2024 01:20:19 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
