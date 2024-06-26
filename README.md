@@ -33,6 +33,8 @@ const Sebastian = {
 
 > 📦 233.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -66,14 +68,13 @@ Sunday                   186 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-PowerShell               16 mins             █████████████░░░░░░░░░░░░   50.04 % 
-Lua                      16 mins             ████████████░░░░░░░░░░░░░   49.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +90,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2024 01:20:45 UTC
+ Last Updated on 26/06/2024 01:20:35 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
