@@ -2,18 +2,19 @@
 
 ```js
 const Sebastian = {
-   code: [ Typescript, Html, Css, Python, Java, Rust],
+   code: [ "Typescript", "Html", "Css", "Python", "Java"],
+   booksRead: [ "CleanCode", "CleanArquitecture", "PragmaticProgrammer"],
    technologies: {
       frontEnd: {
          js: ["React"],
-         css: ["Bootstrap", "Materialize"]
+         css: ["Bootstrap"]
       },
       backEnd: {
          ts: ["NestJs"],
          java: ["Spring Boot"],
          python: ["FastApi"]
       },
-      databases: ["mySQL", "Sqlite", "MongoDb"],
+      databases: ["MySQL", "Sqlite", "MongoDb"],
       career: "Software engineer"
    },
    currentOccupation: "Backend developer and student"
