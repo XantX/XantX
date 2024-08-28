@@ -34,6 +34,8 @@ const Sebastian = {
 
 > 📦 259.0 kB Used in GitHub's Storage 
  > 
+> 🏆 96 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -67,13 +69,13 @@ Sunday                   194 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████████████████   100.00 % 
+Markdown                 14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   25 mins             █████████████████████████   100.00 % 
+Neovim                   14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +91,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 01:27:02 UTC
+ Last Updated on 28/08/2024 01:28:02 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
