@@ -34,8 +34,6 @@ const Sebastian = {
 
 > 📦 259.0 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -91,7 +89,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2024 01:36:21 UTC
+ Last Updated on 06/09/2024 01:36:03 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
