@@ -17,7 +17,7 @@ const Sebastian = {
       databases: ["MySQL", "Sqlite", "MongoDb"],
       career: "Software engineer"
    },
-   currentOccupation: "Backend developer and student"
+   currentOccupation: "Backend developer"
 };
 ```
 <div>
