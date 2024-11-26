@@ -69,14 +69,13 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-JavaScript               6 mins              ███████████████░░░░░░░░░░   60.53 % 
-JSON                     3 mins              ██████████░░░░░░░░░░░░░░░   39.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +91,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2024 01:49:01 UTC
+ Last Updated on 26/11/2024 01:47:24 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
