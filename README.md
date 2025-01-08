@@ -26,13 +26,15 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 237.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,13 +69,17 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 hr 22 mins        █████████████████░░░░░░░░   67.71 % 
+TOML                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +95,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2025 01:43:02 UTC
+ Last Updated on 08/01/2025 01:42:39 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
