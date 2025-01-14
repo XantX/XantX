@@ -1,6 +1,6 @@
 ### Hi, I'm Sebastian :fire:
 
-### [Visit my website](sebastiandiazweb.com)💻: sebastiandiazweb.com
+### Visit my website 💻: [sebastiandiazweb.com](sebastiandiazweb.com)
 
 ```js
 const Sebastian = {
