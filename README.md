@@ -28,13 +28,15 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 240.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,16 +71,16 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-JavaScript               17 mins             ████████████████████░░░░░   81.76 % 
-CSS                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               46 mins             ██████████████░░░░░░░░░░░   55.26 % 
+JavaScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Lua                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-Neovim                   21 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +96,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2025 01:38:48 UTC
+ Last Updated on 17/01/2025 01:38:06 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
