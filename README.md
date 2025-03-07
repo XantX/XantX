@@ -30,7 +30,7 @@ const Sebastian = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,7 +71,8 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Go                       32 mins             █████████████████████████   100.00 % 
+Go                       30 mins             ████████████████████████░   94.98 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
 Neovim                   32 mins             █████████████████████████   100.00 % 
@@ -93,7 +94,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2025 01:46:10 UTC
+ Last Updated on 07/03/2025 01:46:53 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
