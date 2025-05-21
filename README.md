@@ -30,13 +30,11 @@ const Sebastian = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 240.7 kB Used in GitHub's Storage 
- > 
-> 🏆 73 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +95,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2025 01:58:08 UTC
+ Last Updated on 21/05/2025 01:57:48 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
