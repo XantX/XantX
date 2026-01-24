@@ -30,7 +30,7 @@ const Sebastian = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,13 +71,15 @@ Sunday                   186 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PowerShell               29 mins             ██████████████████████░░░   88.00 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +95,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2026 02:08:54 UTC
+ Last Updated on 24/01/2026 02:05:25 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
