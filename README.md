@@ -28,6 +28,8 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -42,6 +44,42 @@ const Sebastian = {
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+🌆 Daytime                300 commits         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+🌃 Evening                572 commits         ████████████░░░░░░░░░░░░░   46.05 % 
+🌙 Night                  267 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Wednesday                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Thursday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Friday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Saturday                 224 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Sunday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -55,7 +93,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 03:58:02 UTC
+ Last Updated on 16/05/2026 03:39:30 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
