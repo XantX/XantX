@@ -28,10 +28,6 @@ const Sebastian = {
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -101,7 +97,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:54:57 UTC
+ Last Updated on 29/07/2026 03:14:07 UTC
 <!--END_SECTION:waka-->
 
 ## You can find me at :eyes:
